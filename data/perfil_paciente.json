@@ -1,0 +1,24 @@
+{
+    "nome": "Marina Costa",
+    "idade": 41,
+    "profissao": "Professora do ensino fundamental",
+    "peso_kg": 78,
+    "altura_cm": 165,
+    "imc": 28.7,
+    "condicoes_saude": [
+          "Diabetes tipo 2 (diagnosticada em 2024)",
+          "Colesterol levemente elevado"
+    ],
+    "nivel_atividade_fisica": "Leve (caminhadas 3x por semana, 30 minutos)",
+    "objetivo_principal": "Emagrecimento com controle glicemico",
+    "objetivos_secundarios": [
+          "Reduzir picos de glicose apos as refeicoes",
+          "Iniciar treino de forca para ganho de massa muscular",
+          "Melhorar disposicao para atividades esportivas no fim de semana"
+    ],
+    "restricoes_alimentares": [
+          "Intolerancia a lactose (leve)"
+    ],
+    "meta_peso_kg": 68,
+    "prazo_meses": 8
+}
