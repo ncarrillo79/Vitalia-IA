@@ -1,0 +1,42 @@
+[
+    {
+          "nome": "Aveia em flocos",
+          "categoria": "Cereal integral rico em fibras",
+          "indice_glicemico": "Baixo",
+          "beneficio_principal": "Promove saciedade prolongada e ajuda no controle da glicemia",
+          "porcao_referencia": "40g (cerca de 3 colheres de sopa)",
+          "indicado_para": ["Controle glicemico (diabetes)", "Perda de peso"]
+    },
+    {
+          "nome": "Peito de frango grelhado",
+          "categoria": "Proteina magra",
+          "indice_glicemico": "Nao se aplica",
+          "beneficio_principal": "Fornece proteina de alto valor biologico para recuperacao muscular",
+          "porcao_referencia": "120g (aprox. 1 file medio)",
+          "indicado_para": ["Ganho de massa muscular", "Perda de peso"]
+    },
+    {
+          "nome": "Batata doce",
+          "categoria": "Carboidrato complexo",
+          "indice_glicemico": "Medio-baixo",
+          "beneficio_principal": "Libera energia de forma gradual, evitando picos de glicose",
+          "porcao_referencia": "100g cozida",
+          "indicado_para": ["Nutricao esportiva", "Controle glicemico (diabetes)"]
+    },
+    {
+          "nome": "Whey protein",
+          "categoria": "Suplemento proteico",
+          "indice_glicemico": "Nao se aplica",
+          "beneficio_principal": "Praticidade para atingir a meta diaria de proteina, especialmente no pos-treino",
+          "porcao_referencia": "1 dose (25 a 30g de po)",
+          "indicado_para": ["Ganho de massa muscular", "Nutricao esportiva"]
+    },
+    {
+          "nome": "Quinoa",
+          "categoria": "Pseudocereal rico em proteina e fibras",
+          "indice_glicemico": "Baixo",
+          "beneficio_principal": "Combina proteina vegetal completa com fibras, versatil para varios objetivos",
+          "porcao_referencia": "50g crua (cerca de 150g cozida)",
+          "indicado_para": ["Perda de peso", "Ganho de massa muscular", "Controle glicemico (diabetes)", "Nutricao esportiva"]
+    }
+]
